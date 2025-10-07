@@ -1,6 +1,6 @@
 {
-  "name": "@lax/airtable-sdk",
-  "version": "1.0.1",
+  "name": "@dlax/airtable-sdk",
+  "version": "1.0.0",
   "description": "A modern, fully-typed TypeScript SDK for the Airtable API",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -34,16 +34,17 @@
     "client",
     "database"
   ],
-  "author": "Your Name",
+  "private": false,
+  "author": "Laxmikanta Nayak",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lax/airtable-sdk"
+    "url": "https://github.com/laxmikanta415/airtable-sdk"
   },
   "bugs": {
-    "url": "https://github.com/lax/airtable-sdk/issues"
+    "url": "https://github.com/laxmikanta415/airtable-sdk/issues"
   },
-  "homepage": "https://github.com/lax/airtable-sdk#readme",
+  "homepage": "https://github.com/laxmikanta415/airtable-sdk#readme",
   "devDependencies": {
     "@types/jest": "^29.5.11",
     "@types/node": "^20.10.6",
